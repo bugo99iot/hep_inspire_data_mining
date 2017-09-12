@@ -1,5 +1,5 @@
 # hep_inspire_data_mining
-We analyse the HEP-Inspire dataset to determine which countries are more prone to produce academic figures in the field of high energy physics
+We analyse the HEP-Inspire dataset to determine which countries are more likely to produce academic figures in the field of high energy physics.
 
 # Files
 UG_results.json and PHD_results.json contain a UG/PHD count per country. The plots folder contain all plots and maps obtained from the analysis.
