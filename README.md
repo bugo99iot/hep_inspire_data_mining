@@ -2,13 +2,13 @@
 We analyse the [HEP-Inspire] database to determine which countries are more likely to produce academic figures in the field of high energy physics.
 
 # Files
-UG_results.json and PHD_results.json contain a UG/PHD count per country. The plots folder contain all plots and maps obtained from the analysis.
+UG_results.json and PHD_results.json contain a UG/PHD count per country. The "plots" folder contains all plots and maps obtained from the analysis.
 
 # Data
-We analyse the fdataset "HepNames" and "Institutions" which can be accessed [here].
+We analyse the dataset "HepNames" and "Institutions" which can be accessed [here].
 
 # Project
-I have written about this project [here].
+I have written about this project on [Medium].
 
 # License
 Released under version 2.0 of the [Apache License].
@@ -16,4 +16,4 @@ Released under version 2.0 of the [Apache License].
 [HEP-Inspire]: https://inspirehep.net/
 [Apache license]: http://www.apache.org/licenses/LICENSE-2.0
 [here]: http://inspirehep.net/dumps/inspire-dump.html
-[here]: https://medium.com/@ugo.bertello
+[Medium]: https://medium.com/@ugo.bertello
