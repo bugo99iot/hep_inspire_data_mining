@@ -7,7 +7,7 @@ UG_results.json and PHD_results.json contain a UG/PHD count per country. The "pl
 # Data
 We analyse the dataset "HepNames" and "Institutions" which can be accessed via [Inspire].
 
-# Project
+# Blog
 I have discussed about this project on [Medium].
 
 # License
