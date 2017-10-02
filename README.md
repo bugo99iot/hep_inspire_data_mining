@@ -5,15 +5,15 @@ We analyse the [HEP-Inspire] database to determine which countries are more like
 UG_results.json and PHD_results.json contain a UG/PHD count per country. The "plots" folder contains all plots and maps obtained from the analysis.
 
 # Data
-We analyse the dataset "HepNames" and "Institutions" which can be accessed [here].
+We analyse the dataset "HepNames" and "Institutions" which can be accessed via [Inspire].
 
 # Project
-I have written about this project on [Medium].
+I have discussed about this project on [Medium].
 
 # License
 Released under version 2.0 of the [Apache License].
 
 [HEP-Inspire]: https://inspirehep.net/
 [Apache license]: http://www.apache.org/licenses/LICENSE-2.0
-[here]: http://inspirehep.net/dumps/inspire-dump.html
+[Inspire]: http://inspirehep.net/dumps/inspire-dump.html
 [Medium]: https://medium.com/@ugo.bertello
